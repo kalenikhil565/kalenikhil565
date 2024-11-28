@@ -1,4 +1,4 @@
-# 💻✨ Java Full Stack Developer | Fresher Portfolio
+# 💻✨ Java Full Stack Developer 
 
 Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic **Java Full Stack Developer** eager to contribute to impactful projects and continuously learn cutting-edge technologies. This space showcases my skills, projects, and interests in full-stack development.
 
@@ -6,6 +6,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 
 ## 🛠️ About Me
 
+- 🙋‍♂️ **Name**: Nikhil Parmeshwar Kale  
 - 🎓 **Education**: B.Tech in Computer Science  
 - 💡 **Interest**: Crafting user-friendly applications and exploring backend systems.  
 - 🚀 **Goal**: To grow as a proficient developer while solving real-world challenges.  
@@ -53,18 +54,25 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Details" />
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" />
+  </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourGitHubUsername&theme=tokyonight" alt="Stats Card" />
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
+
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn**: [Nikhil Parmeshwar Kale](https://www.linkedin.com/in/nikhil-kale-6a674622a)  
+- 🔗 **LinkedIn**: [Kalenikhil565](https://www.linkedin.com/in/nikhil-kale-6a674622a)  
 - 📧 **Email**: [kalenikhil565@gmail.com](mailto:kalenikhil565@gmail.com)  
 
 ---
