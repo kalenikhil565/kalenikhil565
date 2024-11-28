@@ -1,6 +1,6 @@
 # 💻✨ Java Full Stack Developer | Fresher Portfolio
 
-Welcome to my GitHub repository! I'm an enthusiastic **Java Full Stack Developer** eager to contribute to impactful projects and continuously learn cutting-edge technologies. This space showcases my skills, projects, and interests in full-stack development.
+Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic **Java Full Stack Developer** eager to contribute to impactful projects and continuously learn cutting-edge technologies. This space showcases my skills, projects, and interests in full-stack development.
 
 ---
 
@@ -48,30 +48,24 @@ Welcome to my GitHub repository! I'm an enthusiastic **Java Full Stack Developer
 - Built a system to manage books, authors, and users using **Java Swing** for UI.  
 - Implemented CRUD operations and data persistence with **MySQL**.  
 
-### 3️⃣ **To-Do List Application**  
-**Tech Stack**: React.js, Node.js, MongoDB  
-- Created a task management app for users to add, edit, and delete tasks.  
-- Deployed the application on **Heroku**.  
-
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Details" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourGitHubUsername&theme=tokyonight" alt="Stats Card" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🌟 **Portfolio**: [Your Portfolio URL](#)  
+- 🔗 **LinkedIn**: [Nikhil Parmeshwar Kale](https://www.linkedin.com/in/nikhil-kale-6a674622a)  
+- 📧 **Email**: [kalenikhil565@gmail.com](mailto:kalenikhil565@gmail.com)  
 
 ---
 
