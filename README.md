@@ -74,6 +74,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 ## 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kale-6a674622a)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nikhil-kale-6a674622a) 
 - [![Email](https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white)](mailto:kalenikhil565@gmail.com)
 
 ---
