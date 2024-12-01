@@ -84,6 +84,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 I am open to collaboration on beginner-friendly projects, especially in:  
 - **Web Development**  
 - **Java Backend Development**  
-- **Open-Source Contributions**  
+- **Open-Source Contributions**
+- **Software Testing** 
 
 Feel free to explore my repositories and reach out if you'd like to work together! 🚀
