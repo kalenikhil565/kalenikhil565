@@ -51,21 +51,20 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/kalenikhil565">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalenikhil565&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kalenikhil565&show_icons=true&theme=tokyonight&hide=issues&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/kalenikhil565">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kalenikhil565&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
   <br>
   <a href="https://github.com/kalenikhil565">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kalenikhil565&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenikhil565&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
-  <br>
-  <a href="https://github.com/kalenikhil565">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenikhil565&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
 
 
