@@ -51,8 +51,6 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
 
 ---
 
-## 📊 GitHub Activity
-
 <table align="center">
   <tr>
     <td align="center">
@@ -62,18 +60,12 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
     </td>
     <td align="center">
       <a href="https://github.com/kalenikhil565">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kalenikhil565&theme=algolia&hide_border=true" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/kalenikhil565">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalenikhil565&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
