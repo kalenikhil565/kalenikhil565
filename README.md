@@ -62,7 +62,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, an enthusiastic
     </td>
     <td align="center">
       <a href="https://github.com/kalenikhil565">
-        <img src="https://github-readme-streak-stats.onrender.com?user=kalenikhil565&theme=algolia&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kalenikhil565&theme=algolia&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
