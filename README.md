@@ -1,4 +1,4 @@
-# 🧪✨ Software Tester | Quality Assurance Engineer  
+# 🧪✨ Software Tester  
 
 Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a detail-oriented **Software Tester** dedicated to ensuring software quality, detecting bugs, and improving user experience. This space showcases my expertise, projects, and contributions in software testing.  
 
