@@ -1,6 +1,6 @@
-# 🧪✨ Software Tester  
+# 👨‍💻✨ Software Engineer   
 
-Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a detail-oriented **Software Tester** dedicated to ensuring software quality, detecting bugs, and improving user experience. This space showcases my expertise, projects, and contributions in software testing.  
+Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a passionate **Software Engineer** skilled in both **Software Testing** and **Development**. This space showcases my expertise in ensuring software quality, writing efficient code, and building robust applications.
 
 ---
 
@@ -8,9 +8,9 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a detail-orient
 
 - 🙋‍♂️ **Name**: Nikhil Parmeshwar Kale  
 - 🎓 **Education**: B.Tech in Computer Science  
-- 🔎 **Interest**: Finding and fixing defects to improve software reliability.  
-- 🚀 **Goal**: To master manual and automation testing while ensuring seamless user experience.  
-- 🌱 **Learning**: Currently diving deeper into **Selenium, TestNG, and API Testing**.  
+- 🔎 **Interest**: Building high-quality software through rigorous testing and optimized development.  
+- 🚀 **Goal**: To master **software testing** & **full-stack development** with C++, Java, and modern testing frameworks.  
+- 🌱 **Learning**: Currently exploring **Selenium, API Testing, and Java Full Stack Development**.  
 
 ---
 
@@ -23,32 +23,42 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a detail-orient
 - **Database Testing**: MySQL, SQL Queries.  
 - **Bug Tracking Tools**: JIRA, Bugzilla, Trello.  
 
-### 🖥️ **Programming & Scripting**  
-- **Languages**: Java (for automation), Python (basic scripting).  
-- **Frameworks**: TestNG, JUnit, Cucumber (BDD).  
+### 💻 **Development Skills**  
+- **Languages**: C++, Java, Python (basic scripting).  
+- **Web Development**: HTML, CSS, JavaScript, React (Basics).  
+- **Frameworks**: Spring Boot (Java), TestNG, JUnit, Cucumber (BDD).  
+- **Database**: MySQL, MongoDB (Basics).  
 - **Version Control**: Git, GitHub.  
+- **Cloud & DevOps**: Docker, Kubernetes, AWS (Basics).  
 
 ### 📦 **Other Skills**  
 - Strong understanding of **SDLC & STLC**.  
 - Writing & executing **Test Cases, Test Scenarios, and Test Reports**.  
 - Experience in **Agile Methodologies (Scrum, Kanban)**.  
-- Basic knowledge of **Cloud Testing (AWS, Azure - Basics)**.  
+- Software Development & Debugging in **C++ & Java**.  
 
 ---
 
 ## 📂 Projects  
 
-### 1️⃣ **E-Commerce Website Testing**  
-**Tech Stack**: Selenium, TestNG, Java, MySQL  
+### 1️⃣ **E-Commerce Website Testing & Development**  
+**Tech Stack**: Selenium, Java, TestNG, MySQL, React  
 - Performed **functional & UI testing** for an e-commerce platform.  
 - Developed **automation test scripts** using **Selenium WebDriver**.  
+- Built a **backend API** using **Java Spring Boot & MySQL**.  
 - Conducted **cross-browser testing** on Chrome, Firefox, and Edge.  
 
-### 2️⃣ **Banking Application API Testing**  
-**Tech Stack**: REST Assured, Postman, Java  
+### 2️⃣ **Banking Application API Testing & Development**  
+**Tech Stack**: REST Assured, Postman, Java, Spring Boot  
 - Validated **API responses** for different endpoints in a banking system.  
 - Performed **load and security testing** using **Postman & JMeter**.  
-- Automated test cases using **REST Assured with Java**.  
+- Built and tested REST APIs using **Spring Boot & MySQL**.  
+
+### 3️⃣ **C++ Data Structures & Algorithms Project**  
+**Tech Stack**: C++, STL, Algorithms  
+- Developed a **C++ library for efficient data structures & algorithms**.  
+- Implemented **sorting, searching, and graph algorithms** with optimized performance.  
+- Used **memory management techniques** for high-speed execution.  
 
 ---
 
@@ -75,7 +85,9 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a detail-orient
 I am open to collaboration on:  
 - **Manual & Automation Testing Projects**  
 - **API & Performance Testing**  
-- **Open-Source Bug Reporting & Fixing**  
-- **Testing Web & Mobile Applications**  
+- **Full-Stack Development in Java & C++**  
+- **Open-Source Contributions & Bug Fixing**  
+- **Testing & Developing Web & Mobile Applications**  
 
-Explore my repositories and feel free to reach out if you'd like to collaborate! 🚀  
+Explore my repositories and feel free to reach out if you'd like to collaborate! 🚀
+
