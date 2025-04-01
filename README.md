@@ -18,8 +18,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a passionate **
 
 ### 🔍 **Testing Skills**  
 - **Manual Testing**: Functional, Regression, Smoke, Sanity, Usability, and Performance Testing.  
-- **Automation Testing**: Selenium WebDriver, TestNG, JUnit.  
-- **API Testing**: REST Assured, Postman.  
+- **Automation Testing**: Selenium WebDriver, TestNG, JUnit. 
 - **Database Testing**: MySQL, SQL Queries.  
 - **Bug Tracking Tools**: JIRA, Bugzilla, Trello.  
 
@@ -28,8 +27,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a passionate **
 - **Web Development**: HTML, CSS, JavaScript, React (Basics).  
 - **Frameworks**: Spring Boot (Java), TestNG, JUnit, Cucumber (BDD).  
 - **Database**: MySQL, MongoDB (Basics).  
-- **Version Control**: Git, GitHub.  
-- **Cloud & DevOps**: Docker, Kubernetes, AWS (Basics).  
+- **Version Control**: Git, GitHub.    
 
 ### 📦 **Other Skills**  
 - Strong understanding of **SDLC & STLC**.  
@@ -48,13 +46,7 @@ Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a passionate **
 - Built a **backend API** using **Java Spring Boot & MySQL**.  
 - Conducted **cross-browser testing** on Chrome, Firefox, and Edge.  
 
-### 2️⃣ **Banking Application API Testing & Development**  
-**Tech Stack**: REST Assured, Postman, Java, Spring Boot  
-- Validated **API responses** for different endpoints in a banking system.  
-- Performed **load and security testing** using **Postman & JMeter**.  
-- Built and tested REST APIs using **Spring Boot & MySQL**.  
-
-### 3️⃣ **C++ Data Structures & Algorithms Project**  
+### 2️⃣ **C++ Data Structures & Algorithms Project**  
 **Tech Stack**: C++, STL, Algorithms  
 - Developed a **C++ library for efficient data structures & algorithms**.  
 - Implemented **sorting, searching, and graph algorithms** with optimized performance.  
