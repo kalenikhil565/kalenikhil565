@@ -1,75 +1,80 @@
-👨‍💻✨ Software Tester
-Hey there! I'm Nikhil Parmeshwar Kale, a passionate Software Tester skilled in both Manual and Automation Testing. This GitHub is where I share my testing projects, tools, and what I’ve learned so far.
+# 👨‍💻✨ Nikhil Parmeshwar Kale — Software Tester | QA Engineer
 
-🧑‍💼 About Me
-Name: Nikhil Parmeshwar Kale
+Hey there! I'm **Nikhil Parmeshwar Kale**, a passionate **Software Tester** focused on building reliable, bug-free systems through **Manual and Automation Testing**.  
+This is my little corner of GitHub where I share my projects, tools I love, and what I’ve been learning along the QA journey.
 
-Education: B.Tech in Computer Science
+---
 
-Focus Area: Software Testing (Manual + Automation)
+## 🧑‍💼 About Me
 
-Currently Learning: Selenium WebDriver, API Testing, and Java for Test Automation
+- 🎓 **Education**: B.Tech in Computer Science  
+- 🎯 **Focus Area**: Software Testing (Manual + Automation)  
+- 🚀 **Currently Learning**: Selenium WebDriver, API Testing, Java for Test Automation  
+- 🧠 **Goal**: To become a Full Stack Test Automation Specialist and expert QA Engineer  
 
-Career Goal: Become an expert QA Engineer and Full Stack Test Automation Specialist
+---
 
-🛠️ Skills
-🧪 Testing Skills
-Manual Testing: Functional, Regression, Smoke, Sanity, Usability
+## 🛠️ Skills
 
-Automation Testing: Selenium WebDriver, TestNG, JUnit
+### 🧪 Testing Skills
+- Manual Testing: Functional, Regression, Smoke, Sanity, Usability  
+- Automation Testing: Selenium WebDriver, TestNG, JUnit  
+- Bug Tracking Tools: JIRA, Bugzilla, Trello  
+- Database Testing: MySQL, SQL  
 
-Bug Tracking: JIRA, Bugzilla, Trello
+### 💻 Programming & Tools
+- Languages: Java, C++, Python (Basics)  
+- Web: HTML, CSS, JavaScript (Basics)  
+- Version Control: Git & GitHub  
+- Agile: Scrum, Kanban  
+- Extras: Test Case Writing ✍️, Test Scenarios, Test Reporting  
+- Concepts: SDLC, STLC, Defect Life Cycle  
 
-Database Testing: MySQL, SQL
+---
 
-💻 Programming & Tools
-Languages: Java, C++, Python (basics)
+## 🔍 Projects
 
-Web: HTML, CSS, JavaScript (basics)
+### ✅ Manual Testing — Online Banking System
+- Tested features like login, fund transfer, deposit, withdrawal, and account closure  
+- Created and executed detailed test cases  
+- Logged bugs in **JIRA** and tracked their resolution  
+- Performed Functional, Regression, and Usability Testing  
 
-Version Control: Git, GitHub
+### ✅ Automation Testing — Web UI with Selenium
+- Automated login & signup forms using **Selenium + TestNG**  
+- Worked with dropdowns, alerts, and mouse interactions  
+- Executed test suites in parallel & generated test reports  
+- Followed Page Object Model (POM) and clean test structuring  
 
-Agile Methodologies: Scrum, Kanban
+---
 
-Writing Test Cases, Scenarios, and Test Reports
+## 📊 GitHub Stats
 
-Understanding of SDLC and STLC
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilYourGitHubUsername&show_icons=true&theme=radical" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilYourGitHubUsername&layout=compact&theme=radical" alt="Nikhil's Top Languages" />
+</p>
 
-🔍 Projects
-✅ Online Banking System Testing (Manual)
-Tested features like login, fund transfer, and account management
+---
 
-Wrote and executed detailed test cases
+## 🌐 Connect With Me
 
-Logged bugs in JIRA and tracked their resolution
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourLinkedInProfile)  
+📧 Email: your.email@example.com  
+📍 Location: India  
+🔍 Portfolio (if available): [Your Website or Portfolio Link]
 
-Performed Functional, Regression, and Usability Testing
+---
 
-✅ Web UI Automation using Selenium
-Automated login and signup forms using Selenium + TestNG
+## 🤝 Open to Collaborate On
 
-Handled dropdowns, alerts, and mouse actions
+- 📌 Manual Testing Projects  
+- 💻 Selenium Web Automation  
+- 🔗 API Testing (Postman + REST Assured)  
+- 🪲 Bug Reproduction & Documentation  
+- 📄 Writing test cases and test reports  
 
-Generated test reports and ran tests in parallel
+> _“Quality is never an accident; it is always the result of intelligent effort.”_ – John Ruskin
 
-📊 GitHub Stats
+---
 
-
-
-
-
-🌐 Connect with Me
-
-
-
-
-
-
-🤝 Open to Collaborate On
-Manual Testing Projects
-
-Selenium Automation Projects
-
-API Testing (Postman + REST Assured)
-
-Bug Fixing & Test Documentation
