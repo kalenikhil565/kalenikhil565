@@ -1,85 +1,75 @@
-# 👨‍💻✨ Software Engineer   
+👨‍💻✨ Software Tester
+Hey there! I'm Nikhil Parmeshwar Kale, a passionate Software Tester skilled in both Manual and Automation Testing. This GitHub is where I share my testing projects, tools, and what I’ve learned so far.
 
-Welcome to my GitHub repository! I'm **Nikhil Parmeshwar Kale**, a passionate **Software Engineer** skilled in both **Software Testing** and **Development**. This space showcases my expertise in ensuring software quality, writing efficient code, and building robust applications.
+🧑‍💼 About Me
+Name: Nikhil Parmeshwar Kale
 
----
+Education: B.Tech in Computer Science
 
-## 🛠️ About Me  
+Focus Area: Software Testing (Manual + Automation)
 
-- 🙋‍♂️ **Name**: Nikhil Parmeshwar Kale  
-- 🎓 **Education**: B.Tech in Computer Science  
-- 🔎 **Interest**: Building high-quality software through rigorous testing and optimized development.  
-- 🚀 **Goal**: To master **software testing** & **full-stack development** with C++, Java, and modern testing frameworks.  
-- 🌱 **Learning**: Currently exploring **Selenium, API Testing, and Java Full Stack Development**.  
+Currently Learning: Selenium WebDriver, API Testing, and Java for Test Automation
 
----
+Career Goal: Become an expert QA Engineer and Full Stack Test Automation Specialist
 
-## 🚀 Technical Skills  
+🛠️ Skills
+🧪 Testing Skills
+Manual Testing: Functional, Regression, Smoke, Sanity, Usability
 
-### 🔍 **Testing Skills**  
-- **Manual Testing**: Functional, Regression, Smoke, Sanity, Usability, and Performance Testing.  
-- **Automation Testing**: Selenium WebDriver, TestNG, JUnit. 
-- **Database Testing**: MySQL, SQL Queries.  
-- **Bug Tracking Tools**: JIRA, Bugzilla, Trello.  
+Automation Testing: Selenium WebDriver, TestNG, JUnit
 
-### 💻 **Development Skills**  
-- **Languages**: C++, Java, Python (basic scripting).  
-- **Web Development**: HTML, CSS, JavaScript, React (Basics).  
-- **Frameworks**: Spring Boot (Java), TestNG, JUnit, Cucumber (BDD).  
-- **Database**: MySQL, MongoDB (Basics).  
-- **Version Control**: Git, GitHub.    
+Bug Tracking: JIRA, Bugzilla, Trello
 
-### 📦 **Other Skills**  
-- Strong understanding of **SDLC & STLC**.  
-- Writing & executing **Test Cases, Test Scenarios, and Test Reports**.  
-- Experience in **Agile Methodologies (Scrum, Kanban)**.  
-- Software Development & Debugging in **C++ & Java**.  
+Database Testing: MySQL, SQL
 
----
+💻 Programming & Tools
+Languages: Java, C++, Python (basics)
 
-## 📂 Projects  
+Web: HTML, CSS, JavaScript (basics)
 
-### 1️⃣ **E-Commerce Website Testing & Development**  
-**Tech Stack**: Selenium, Java, TestNG, MySQL, React  
-- Performed **functional & UI testing** for an e-commerce platform.  
-- Developed **automation test scripts** using **Selenium WebDriver**.  
-- Built a **backend API** using **Java Spring Boot & MySQL**.  
-- Conducted **cross-browser testing** on Chrome, Firefox, and Edge.  
+Version Control: Git, GitHub
 
-### 2️⃣ **C++ Data Structures & Algorithms Project**  
-**Tech Stack**: C++, STL, Algorithms  
-- Developed a **C++ library for efficient data structures & algorithms**.  
-- Implemented **sorting, searching, and graph algorithms** with optimized performance.  
-- Used **memory management techniques** for high-speed execution.  
+Agile Methodologies: Scrum, Kanban
 
----
+Writing Test Cases, Scenarios, and Test Reports
 
-## 📊 GitHub Stats  
+Understanding of SDLC and STLC
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalenikhil565&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)  
+🔍 Projects
+✅ Online Banking System Testing (Manual)
+Tested features like login, fund transfer, and account management
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalenikhil565&layout=compact&theme=algolia&hide_border=true&langs_count=8)  
+Wrote and executed detailed test cases
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kalenikhil565&theme=algolia&hide_border=true)  
+Logged bugs in JIRA and tracked their resolution
 
----
+Performed Functional, Regression, and Usability Testing
 
-## 🌐 Connect With Me  
+✅ Web UI Automation using Selenium
+Automated login and signup forms using Selenium + TestNG
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kale-6a674622a)  
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nikhil-kale-6a674622a)  
-- [![Email](https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white)](mailto:kalenikhil565@gmail.com)  
+Handled dropdowns, alerts, and mouse actions
 
----
+Generated test reports and ran tests in parallel
 
-## 🤝 Contributions & Learning  
+📊 GitHub Stats
 
-I am open to collaboration on:  
-- **Manual & Automation Testing Projects**  
-- **API & Performance Testing**  
-- **Full-Stack Development in Java & C++**  
-- **Open-Source Contributions & Bug Fixing**  
-- **Testing & Developing Web & Mobile Applications**  
 
-Explore my repositories and feel free to reach out if you'd like to collaborate! 🚀
 
+
+
+🌐 Connect with Me
+
+
+
+
+
+
+🤝 Open to Collaborate On
+Manual Testing Projects
+
+Selenium Automation Projects
+
+API Testing (Postman + REST Assured)
+
+Bug Fixing & Test Documentation
