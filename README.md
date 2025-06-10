@@ -1,4 +1,4 @@
-# 👨‍💻✨ Nikhil Parmeshwar Kale — Software Tester | QA Engineer
+# 👨‍💻✨ Nikhil Parmeshwar Kale —Manual And Automation Testing 
 
 Hey there! I'm **Nikhil Parmeshwar Kale**, a passionate **Software Tester** focused on building reliable, bug-free systems through **Manual and Automation Testing**.  
 This is my little corner of GitHub where I share my projects, tools I love, and what I’ve been learning along the QA journey.
